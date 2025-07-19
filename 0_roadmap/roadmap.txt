@@ -1,14 +1,23 @@
 Python Developer
-├── Learn the Basics
-│   ├── Basic Syntax ✅
-│   ├── Variables and Data Types ✅
-│   ├── Conditionals
-│   ├── Loops
-│   ├── Type Casting
-│   ├── Excptions
-│   ├── Functions, Builtin Functions
-│   ├── Lists, Tuples, Sets
-│   └── Dictionaries
+├── 1. Learn the Basics
+│   ├── 1. Basic Syntax ✅
+│   ├── 2. Variables and Data Types ✅
+│   ├── 3. Conditionals
+│   ├── 4. Loops
+│   ├── 5. Type Casting
+│   ├── 6. Excptions
+│   ├── 7. Functions, Builtin Functions
+│   ├── 8. Lists, Tuples, Sets
+│   └── 9. Dictionaries
+│
+├── 2. Data Structures and Algorithms
+│   ├── 1. Modules
+│   │   ├── Builtin Modules
+│   │   └── Custom Modules
+│   ├── 2. Lambdas
+│   ├── 3. Decorators
+│   ├── 4. Iterators
+│   └── 5. Regular Expressions
 │
 ├── ...
 ├── ...
